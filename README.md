@@ -1,1 +1,1 @@
-This is a simple Youtube User Interface with pure HTML and CSS
+This is a simple Youtube User Interface with HTML and CSS
